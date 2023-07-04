@@ -1,0 +1,10 @@
+.d-flex{
+    gap: 10px;
+}
+
+.btn{
+    cursor: pointer;
+    padding: 5px;
+    height: 5%;
+    width: 200px;
+}
