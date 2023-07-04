@@ -1,0 +1,19 @@
+.logo{
+    width: auto;
+    height: auto;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.contenedor-formulario{
+    background-color: white;
+    padding: 5%;
+}
